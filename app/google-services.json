@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "104865009079",
+    "firebase_url": "https://act4-23e43-default-rtdb.firebaseio.com",
+    "project_id": "act4-23e43",
+    "storage_bucket": "act4-23e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104865009079:android:9199c591f8678398462c32",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfUM-y0KdOwtxLXOyfiXQvt7eo9dLaeP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
